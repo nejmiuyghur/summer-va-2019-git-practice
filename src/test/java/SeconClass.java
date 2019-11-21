@@ -3,10 +3,10 @@ public class SeconClass {
     public static void main(String[] args) {
 
 
-     String myname= "humeyra" ;
+     String myname= "humseyra" ;
         System.out.println(myname);
 
-
+        System.out.println(" my name is najmidin");
     }
 
 

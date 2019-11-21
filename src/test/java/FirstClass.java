@@ -5,7 +5,7 @@ public class FirstClass {
         System.out.println("najmdin");
         System.out.println("aksu");
 
-
+        System.out.println("najmidindsadsadas");
     }
 
 
