@@ -12,7 +12,7 @@ public class SeconClass {
                  System.out.println(" yegi kilgan narasa");
         
         
-                         System.out.println(" yegi kilgan narasa");
+                         System.out.println(" yegi kilgan arasa");
 
     }
 
