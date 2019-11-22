@@ -10,6 +10,8 @@ public class SeconClass {
         
         
                  System.out.println(" yegi kilgan narasa");
+        
+       najmidinjannnnnn
 
     }
 
